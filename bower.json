@@ -1,0 +1,21 @@
+{
+  "name": "web-remake-coverfox",
+  "description": "This is a simple copy of the coverfox website which is given as an assignment. In case the owners feel that this should be removed please do let me know.",
+  "main": "app.js",
+  "authors": [
+    "Sagar Shah"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/specialsagar/web-remake-coverfox",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
