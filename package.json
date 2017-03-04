@@ -1,0 +1,29 @@
+{
+  "name": "web-remake-coverfox",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "express": "~4.14.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.2"
+  },
+  "description": "This is a simple copy of the coverfox website which is given as an assignment. In case the owners feel that this should be removed please do let me know.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/specialsagar/web-remake-coverfox.git"
+  },
+  "author": "Sagar Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/specialsagar/web-remake-coverfox/issues"
+  },
+  "homepage": "https://github.com/specialsagar/web-remake-coverfox#readme"
+}
